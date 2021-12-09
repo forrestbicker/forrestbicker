@@ -17,8 +17,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="forrestbicker">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=forrestbicker&amp;" alt="forrestbicker">
 
 
