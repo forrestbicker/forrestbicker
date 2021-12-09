@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Forrest</h1>
 <h3 align="center">Computer Science + Math @ Harvey Mudd College</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -17,11 +16,18 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestbicker&show_icons=true&locale=en&layout=compact" alt="forrestbicker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&show_icons=true&locale=en&hide=issues" alt="forrestbicker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forrestbicker&" alt="forrestbicker" /></p>
+  <div>
+    <div style="width: 40px;">
+      <img style="width: 30vw; height: 15vw;" align="left" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&show_icons=true&locale=en&hide=issues" alt="forrestbicker" />
+    </div>
+    <div style="width: 40px; float: left;">
+      <img style="width:30vw; height: 15vw;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=forrestbicker&" alt="forrestbicker" />
+    </div>
+  </div>
+  
+<img style="max-width:100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestbicker&show_icons=true&locale=en&layout=compact" alt="forrestbicker" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
