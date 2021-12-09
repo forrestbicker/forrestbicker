@@ -20,10 +20,10 @@
 
   <div>
     <div style="width: 40px;">
-      <img style="width: 20vw; height: 15vw;" align="left" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&show_icons=true&locale=en&hide=issues" alt="forrestbicker" />
+      <img style="width: 30vw; height: 15vw;" align="left" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&show_icons=true&locale=en&hide=issues" alt="forrestbicker" />
     </div>
     <div style="width: 40px; float: left;">
-      <img style="width:20vw; height: 15vw;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=forrestbicker&" alt="forrestbicker" />
+      <img style="width:30vw; height: 15vw;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=forrestbicker&" alt="forrestbicker" />
     </div>
   </div>
   
