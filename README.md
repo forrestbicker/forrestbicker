@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Forrest!</h1>
 <h3 align="center">Computer Science + Math @ Harvey Mudd College</h3>
 <h3 align="center">Lover of data, AI/ML/RL, robotics</h3>
-
+<br>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -19,9 +19,9 @@
 </p>
 
 <div>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="forrestbicker">
-<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=forrestbicker&amp;" alt="forrestbicker">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="forrestbicker">
+<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=forrestbicker&amp;" alt="forrestbicker">
 </div>
 
 
