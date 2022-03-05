@@ -20,10 +20,6 @@
 </p>
 
 <div>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="forrestbicker">
-<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=forrestbicker&amp;" alt="forrestbicker">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="forrestbicker">
 </div>
-
-
-
