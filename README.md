@@ -2,10 +2,15 @@
 
 
 # Hi, I'm Forrest! 👋
+<img width="15%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
+<img width="15%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
+<img width="15%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
+
 ### - Computer Science + Math @ Harvey Mudd College
 ### - Lover of data, AI/ML/RL, robotics
 ### - [Personal Website!](https://forrestbicker.com)
 ## 🎈Languages and Technologies
+
 <p>
 <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
