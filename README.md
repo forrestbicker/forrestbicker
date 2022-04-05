@@ -13,7 +13,7 @@
 
 ### Computer Science + Math @ Harvey Mudd
 ### Lover of data, AI/ML/RL, robotics
-## 🎈Languages and Technologies
+## 🎈Statistics
 <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
 
 
