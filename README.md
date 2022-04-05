@@ -1,7 +1,7 @@
 
 
 
-# Hi, I'm Forrest 👋
+# Hi, I'm Forrest! 👋
 ### - Computer Science + Math @ Harvey Mudd College
 ### - Lover of data, AI/ML/RL, robotics
 ### - [Personal Website!](https://forrestbicker.com)
