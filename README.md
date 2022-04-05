@@ -1,4 +1,4 @@
-# Hi, I'm Forrest! 👋
+# Forrest Bicker
 <img width="0.15625%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
 <img width="0.3125%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
 <img width="0.625%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
@@ -16,7 +16,7 @@
 ## 🎈Languages and Technologies
 
 <p>
-<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
