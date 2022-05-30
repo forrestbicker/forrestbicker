@@ -1,11 +1,4 @@
 # Forrest Bicker
-<img width="0.15625%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
-<img width="0.3125%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
-<img width="0.625%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
-<img width="1.25%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
-<img width="2.5%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
-<img width="5%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
-<img width="10%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
 <img width="15%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://forrestbicker.com)
