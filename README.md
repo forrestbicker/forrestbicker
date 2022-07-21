@@ -1,5 +1,5 @@
 # Forrest Bicker
-<img width="25%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
+<img width="5%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://forrestbicker.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/forrestbicker)
