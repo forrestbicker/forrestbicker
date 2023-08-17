@@ -1,12 +1,13 @@
 # Forrest Bicker
 ## Computer Science + Math @ Harvey Mudd
-<img width="5%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://forrestbicker.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/forrestbicker)
 
 
-<!-- <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">  -->
+<!-- 
+<img width="5%" align="right" alt="Github" src="https://github.com/forrestbicker/forrestbicker/blob/main/src/logo.gif" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=forrestbicker&amp;show_icons=true&amp;locale=en&amp;hide=issues" alt="forrestbicker">  -->
 
 <!-- 
 <p>
